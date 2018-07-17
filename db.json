@@ -1,0 +1,52 @@
+{
+  "employees": [
+    {
+      "id": 2,
+      "FirstName": "Mark",
+      "LastName": "Bruce",
+      "Position": "Accountant",
+      "EmpCode": "216098",
+      "Office": "Scotland"
+    },
+    {
+      "id": 3,
+      "FirstName": "John",
+      "LastName": "Doe",
+      "Position": "Accountant",
+      "EmpCode": "216114",
+      "Office": "Canada"
+    },
+    {
+      "id": 4,
+      "FirstName": "Wayne",
+      "LastName": "Smith",
+      "Position": "Developer",
+      "EmpCode": "216001",
+      "Office": "New Zeland"
+    },
+    {
+      "id": 5,
+      "FirstName": "Shane",
+      "LastName": "Long",
+      "Position": "CEO",
+      "EmpCode": "178091",
+      "Office": "USA"
+    },
+    {
+      "id": 6,
+      "FirstName": "Natasha",
+      "LastName": "Giovanni",
+      "Position": "Accountant",
+      "EmpCode": "216005",
+      "Office": "Ireland"
+    },
+    {
+      "id": 7,
+      "FirstName": "Tom",
+      "LastName": "Godin",
+      "Position": "IMS",
+      "EmpCode": "139292",
+      "Office": "Iceland"
+    }
+  ]
+}
